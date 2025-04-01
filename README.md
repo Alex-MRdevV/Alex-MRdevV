@@ -5,7 +5,7 @@
   
   <div style=align:"left">
     
-  ### Sobre mí 👋
+  ### Sobre mí:
 
 Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
 
@@ -28,9 +28,9 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 
 </section>
 
-<h2 style="text-align:right">Estadísticas de mi cuenta:</h2>
+<h2 style="text-align:left">Estadísticas de mi cuenta:</h2>
 
-<section style="text-align:right">
+<section style="text-align:left">
 <img src="https://nirzak-streak-stats.vercel.app/?user=Alex-MRdevV&&card_width=470&theme=aura&locale=es&Type=compact" alt="GitHub Streak Stats"/>
 </section>
 
