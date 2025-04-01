@@ -1,5 +1,39 @@
 # **_Bienvenido(a)👋 a mi perfil de GitHub_**
 
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  
+  <div style=align:"left">
+    
+  ## Sobre mí 👋
+
+Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
+
+  </div>
+
+  ### Fullstack 🔄
+
+[![Typescript][typescript-badge]][typescript-url]
+[![Zod][zod-badge]][zod-url]
+
+### Frontend 🎨
+
+[![Astro][astro-badge]][astro-url]
+[![Tailwind CSS][tailwind-badge]][tailwind-url]
+[![React JS][react-badge]][React-url]
+
+### Backend 📦
+
+[![Node.js][node-badge]][node-url]
+[![Express.js][express-badge]][express-url]
+[![Hono.js][hono-badge]][hono-url]
+[![Drizzle][drizzle-badge]][drizzle-url]
+[![SQLite][SQLite-badge]][SQLite-url]
+[![Postgresql][postgres-badge]][postgres-url]
+[![MySQL][mysql-badge]][mysql-url]
+  
+</p>
+
 <section style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1; min-width: 300px; text-align: left;">
