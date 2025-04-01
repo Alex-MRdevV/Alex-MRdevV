@@ -2,13 +2,16 @@
 
 <section style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
 
+  <div style="flex: 1; min-width: 300px;">
+
 ## Sobre mí 👋
 
 Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
 
-  <h2 style="text-align:right">Tecnologías:</h2>
+  </div>
 
   <div style="flex: 2; text-align: right;">
+    <h2 style="text-align:right">Tecnologías:</h2>
 
 ### Fullstack 🔄
 
@@ -26,12 +29,13 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [![Node.js][node-badge]][node-url]
 [![Express.js][express-badge]][express-url]
 [![Hono.js][hono-badge]][hono-url]
-[![Drizzle][drizzle-badge]][drizzle-url]  
+[![Drizzle][drizzle-badge]][drizzle-url]
 [![SQLite][SQLite-badge]][SQLite-url]
 [![Postgresql][postgres-badge]][postgres-url]
 [![MySQL][mysql-badge]][mysql-url]
 
-</div>
+  </div>
+
 </section>
 
 <h2 style="text-align:right">Estadísticas de mi cuenta:</h2>
