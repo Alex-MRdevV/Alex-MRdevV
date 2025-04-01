@@ -17,6 +17,7 @@
 
 [![Node.js][node-badge]][node-url]
 [![Express.js][express-badge]][express-url]
+[![Hono.js][hono-badge]][hono-url] 
 [![SQLite][SQLite-badge]][SQLite-url]
 [![MySQL][mysql-badge]][mysql-url]
 
@@ -46,4 +47,5 @@
 [zod-badge]: https://img.shields.io/badge/zod-F2957d?style=for-the-badge&logo=zod&logoColor=white
 [mysql-url]: https://www.mysql.com/
 [mysql-badge]: https://img.shields.io/badge/mysql-%3373f.svg?style=for-the-badge&logo=mysql&logoColor=black
-
+[hono-url]: https://www.mysql.com/
+[hono-badge]: https://img.shields.io/badge/honojs-F2959d?style=for-the-badge&logo=hono&logoColor=red
