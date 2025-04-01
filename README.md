@@ -16,6 +16,7 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [![Typescript][typescript-badge]][typescript-url]
 [![Zod][zod-badge]][zod-url]
 [![Astro][astro-badge]][astro-url]
+[![CSS][css-badge]][css-url] 
 [![Tailwind CSS][tailwind-badge]][tailwind-url]
 [![React JS][react-badge]][React-url]
 [![Node.js][node-badge]][node-url]
@@ -38,6 +39,8 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [astro-badge]: https://img.shields.io/badge/Astro-fff?style=for-the-badge&logo=astro&logoColor=bd303a&color=352563
 [tailwind-url]: https://tailwindcss.com/
 [tailwind-badge]: https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8
+[css-url]: https:
+[css-badge]: https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white&color=233e81
 [React-url]: https://es.react.dev/
 [react-badge]: https://shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=352563
 [node-url]: https://nodejs.org/en
