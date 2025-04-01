@@ -18,6 +18,7 @@
 [![Node.js][node-badge]][node-url]
 [![Express.js][express-badge]][express-url]
 [![Hono.js][hono-badge]][hono-url]
+[![drizzle][drizzle-badge]][drizzle-url] 
 [![SQLite][SQLite-badge]][SQLite-url]
 [![Postgresql][postgres-badge]][postgres-url]
 [![MySQL][mysql-badge]][mysql-url]
@@ -52,3 +53,5 @@
 [hono-badge]: https://img.shields.io/badge/honojs-F2959d?style=for-the-badge&logo=hono&logoColor=red
 [postgres-url]: https://www.postgresql.org/
 [postgres-badge]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[drizzle-url]: https://orm.drizzle.team/docs/overview
+[drizzle-badge]: https://img.shields.io/badge/drizzle-%23403d77.svg?style=for-the-badge&logo=drizzle&logoColor=green
