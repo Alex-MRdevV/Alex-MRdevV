@@ -1,29 +1,23 @@
 # **_Bienvenido(a)👋 a mi perfil de GitHub_**
 
-<p>
-  <img align="right" width="" height="" src="./cat-1423_256.gif" style="mask-image: linear-gradient(black 80%, transparent); -webkit-mask-image: linear-gradient(black 80%, transparent);">
+<section>
+  <img align="right" width="" height="" src="./cat-1423_256.gif" style="mask-image: linear-gradient(black 80%, transparent);">
   
   <div style=align:"left">
     
-  ## Sobre mí 👋
+  ### Sobre mí 👋
 
 Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
 
   </div>
 
-### Fullstack 🔄
+### Tecnologías:
 
 [![Typescript][typescript-badge]][typescript-url]
 [![Zod][zod-badge]][zod-url]
-
-### Frontend 🎨
-
 [![Astro][astro-badge]][astro-url]
 [![Tailwind CSS][tailwind-badge]][tailwind-url]
 [![React JS][react-badge]][React-url]
-
-### Backend 📦
-
 [![Node.js][node-badge]][node-url]
 [![Express.js][express-badge]][express-url]
 [![Hono.js][hono-badge]][hono-url]
@@ -31,44 +25,6 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [![SQLite][SQLite-badge]][SQLite-url]
 [![Postgresql][postgres-badge]][postgres-url]
 [![MySQL][mysql-badge]][mysql-url]
-
-</p>
-
-<section style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
-
-  <div style="flex: 1; min-width: 300px; text-align: left;">
-
-## Sobre mí 👋
-
-Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
-
-  </div>
-
-  <div style="flex: 1.5; text-align: left;">
-    <h2 style="text-align:left">Tecnologías:</h2>
-
-### Fullstack 🔄
-
-[![Typescript][typescript-badge]][typescript-url]
-[![Zod][zod-badge]][zod-url]
-
-### Frontend 🎨
-
-[![Astro][astro-badge]][astro-url]
-[![Tailwind CSS][tailwind-badge]][tailwind-url]
-[![React JS][react-badge]][React-url]
-
-### Backend 📦
-
-[![Node.js][node-badge]][node-url]
-[![Express.js][express-badge]][express-url]
-[![Hono.js][hono-badge]][hono-url]
-[![Drizzle][drizzle-badge]][drizzle-url]
-[![SQLite][SQLite-badge]][SQLite-url]
-[![Postgresql][postgres-badge]][postgres-url]
-[![MySQL][mysql-badge]][mysql-url]
-
-  </div>
 
 </section>
 
