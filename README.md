@@ -1,4 +1,4 @@
-# ___Bienvenido(a)👋 a mi perfil de **GitHub**___
+# ___Bienvenido(a)👋 a mi perfil de GitHub___
 
 ## Tecnologías 💻
 
@@ -17,8 +17,9 @@
 
 [![Node.js][node-badge]][node-url]
 [![Express.js][express-badge]][express-url]
-[![Hono.js][hono-badge]][hono-url] 
+[![Hono.js][hono-badge]][hono-url]
 [![SQLite][SQLite-badge]][SQLite-url]
+[![Postgresql][postgres-badge]][postgres-url]
 [![MySQL][mysql-badge]][mysql-url]
 
 <h3 style="text-align:right"> Estadísticas de mi cuenta:</h2>
@@ -44,8 +45,10 @@
 [typescript-url]: https://www.typescriptlang.org/
 [typescript-badge]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=352899
 [zod-url]: https://zod.dev/
-[zod-badge]: https://img.shields.io/badge/zod-F2957d?style=for-the-badge&logo=zod&logoColor=white
+[zod-badge]: https://img.shields.io/badge/zod-F2957d?style=for-the-badge&logo=zod&logoColor=blue
 [mysql-url]: https://www.mysql.com/
 [mysql-badge]: https://img.shields.io/badge/mysql-%3373f.svg?style=for-the-badge&logo=mysql&logoColor=black
-[hono-url]: https://www.mysql.com/
+[hono-url]: https://honojs.dev/
 [hono-badge]: https://img.shields.io/badge/honojs-F2959d?style=for-the-badge&logo=hono&logoColor=red
+[postgres-url]: https://www.postgresql.org/
+[postgres-badge]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
