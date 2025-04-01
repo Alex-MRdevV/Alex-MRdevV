@@ -1,11 +1,19 @@
-# ___Bienvenido(a)👋 a mi perfil de GitHub___
+# **_Bienvenido(a)👋 a mi perfil de GitHub_**
 
-## Tecnologías 💻
+<section style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+
+## Sobre mí 👋
+
+Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
+
+  <h2 style="text-align:right">Tecnologías:</h2>
+
+  <div style="flex: 2; text-align: right;">
 
 ### Fullstack 🔄
 
 [![Typescript][typescript-badge]][typescript-url]
-[![Typescript][zod-badge]][zod-url]
+[![Zod][zod-badge]][zod-url]
 
 ### Frontend 🎨
 
@@ -18,17 +26,18 @@
 [![Node.js][node-badge]][node-url]
 [![Express.js][express-badge]][express-url]
 [![Hono.js][hono-badge]][hono-url]
-[![drizzle][drizzle-badge]][drizzle-url] 
+[![Drizzle][drizzle-badge]][drizzle-url]  
 [![SQLite][SQLite-badge]][SQLite-url]
 [![Postgresql][postgres-badge]][postgres-url]
 [![MySQL][mysql-badge]][mysql-url]
 
-<h3 style="text-align:right"> Estadísticas de mi cuenta:</h2>
+</div>
+</section>
+
+<h2 style="text-align:right">Estadísticas de mi cuenta:</h2>
 
 <section style="text-align:right">
-
-![](https://nirzak-streak-stats.vercel.app/?user=Alex-MRdevV&&card_width=470&theme=aura&locale=es&Type=compact)
-
+<img src="https://nirzak-streak-stats.vercel.app/?user=Alex-MRdevV&&card_width=470&theme=aura&locale=es&Type=compact" alt="GitHub Streak Stats"/>
 </section>
 
 [astro-url]: https://astro.build/
