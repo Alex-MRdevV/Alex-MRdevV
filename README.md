@@ -14,7 +14,6 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 ### Tecnologías:
 
 [![Typescript][typescript-badge]][typescript-url]
-[![Zod][zod-badge]][zod-url]
 [![Astro][astro-badge]][astro-url]
 [![CSS][css-badge]][css-url] 
 [![Tailwind CSS][tailwind-badge]][tailwind-url]
@@ -27,6 +26,7 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [![Express.js][express-badge]][express-url]
 [![Hono.js][hono-badge]][hono-url]
 [![Drizzle][drizzle-badge]][drizzle-url]
+[![Zod][zod-badge]][zod-url]
 [![SQLite][SQLite-badge]][SQLite-url]
 [![Postgresql][postgres-badge]][postgres-url]
 [![MySQL][mysql-badge]][mysql-url]
