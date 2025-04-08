@@ -15,13 +15,11 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 
 [![Typescript][typescript-badge]][typescript-url]
 [![Astro][astro-badge]][astro-url]
-[![CSS][css-badge]][css-url] 
+[![CSS][css-badge]][css-url]
 [![Tailwind CSS][tailwind-badge]][tailwind-url]
 [![React JS][react-badge]][react-url]
 [![Next.js][nextjs-badge]][nextjs-url]
 [![Angular][angular-badge]][angular-url]
-[![Lunacy][lunacy-badge]][lunacy-url]
-[![Figma][figma-badge]][figma-url]
 [![Node.js][node-badge]][node-url]
 [![Express.js][express-badge]][express-url]
 [![Hono.js][hono-badge]][hono-url]
@@ -31,6 +29,8 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [![Postgresql][postgres-badge]][postgres-url]
 [![MySQL][mysql-badge]][mysql-url]
 [![Obsidian][obsidian-badge]][obsidian-url]
+[![Lunacy][lunacy-badge]][lunacy-url]
+[![Figma][figma-badge]][figma-url]
 
 </section>
 
@@ -49,7 +49,7 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [obsidian-url]: https://obsidian.md/
 [obsidian-badge]: https://img.shields.io/badge/Obsidian-%23403d77.svg?style=for-the-badge&logo=obsidian&logoColor=8b12d5
 
-[Badges junto a las URLS para el frontend y diseño.]: #    
+[Badges junto a las URLS para el frontend y diseño.]: #
 
 [astro-url]: https://astro.build/
 [astro-badge]: https://img.shields.io/badge/Astro-fff?style=for-the-badge&logo=astro&logoColor=bd303a&color=352563
@@ -68,7 +68,7 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [figma-url]: https://figma.com/
 [figma-badge]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
 
-[Badges junto a las URLS para el backend y todo lo no visto por el user final.]: #    
+[Badges junto a las URLS para el backend y todo lo no visto por el user final.]: #
 
 [node-url]: https://nodejs.org/en
 [node-badge]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
