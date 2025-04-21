@@ -18,7 +18,6 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [![CSS][css-badge]][css-url]
 [![Tailwind CSS][tailwind-badge]][tailwind-url]
 [![React JS][react-badge]][react-url]
-[![Next.js][nextjs-badge]][nextjs-url]
 [![Angular][angular-badge]][angular-url]
 [![Node.js][node-badge]][node-url]
 [![Express.js][express-badge]][express-url]
@@ -59,8 +58,6 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [css-badge]: https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white&color=233e81
 [react-url]: https://es.react.dev/
 [react-badge]: https://shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=352563
-[nextjs-url]: https://nextjs.org/
-[nextjs-badge]: https://shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [angular-url]: https://angular.io/
 [angular-badge]: https://img.shields.io/badge/Angular-A232FC?style=for-the-badge&logo=angular&logoColor=EA193D
 [lunacy-url]: https://iconos8.es/lunacy
