@@ -32,23 +32,17 @@ Me especializo en tecnologías modernas y disfruto construir aplicaciones eficie
     </td>
     <td align="center">
       <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
       <a href="https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting/What_is_JavaScript" target="_blank" title="JavaScript">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
       <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
       <a href="https://www.java.com/es/" target="_blank" title="Java">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
       <a href="https://rust-lang.org/" target="_blank" title="Rust">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
       <a href="https://www.python.org/" target="_blank" title="Python">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
     </td>
   </tr>
 </table>
