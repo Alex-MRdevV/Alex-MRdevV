@@ -12,13 +12,11 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 
 ### 🛠️ Stack Tecnológico:
 
-#### Lenguajes de Programación
-
 <table>
   <tr>
-    <td align="left" width="33%"><h3>Dominio</h3></td>
-    <td align="center" width="34%"><h3>Aprendiendo</h3></td>
-    <td align="right" width="33%"><h3>Experiencia</h3></td>
+    <td align="left" width="33%"><h3>Lenguajes que Dominó</h3></td>
+    <td align="center" width="34%"><h3>Lenguajes que estoy Aprendiendo</h3></td>
+    <td align="right" width="33%"><h3>Lenguajes que he usado</h3></td>
   </tr>
   <tr>
     <td align="left">
