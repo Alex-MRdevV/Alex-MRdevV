@@ -2,13 +2,14 @@
   <h1><strong><em>Bienvenido(a)👋 a mi perfil: </em></strong></h1>
 </ul>
 
+### Sobre mí:
+
+Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. 
+Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
+
 <section>
   <img align="right" width="" height="300" src="./cat-1423_256.gif" style="mask-image: linear-gradient(black 80%, transparent);">
 </section>
-
-### Sobre mí:
-Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. 
-Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
 
 ### 🛠️ Stack Tecnológico:
 <table>
@@ -67,14 +68,11 @@ Me especializo en tecnologías modernas y disfruto construir aplicaciones eficie
 
 <div align="left">
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
   <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 </div>
 
 #### Herramientas
