@@ -7,35 +7,30 @@
 </section>
 
 ### Sobre mí:
-
-Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
+Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. 
+Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
 
 ### 🛠️ Stack Tecnológico:
-
 <table>
   <tr>
-    <td align="left" width="33%"><h3>Lenguajes que Dominó</h3></td>
+    <td align="center" width="33%"><h3>Lenguajes que Dominó</h3></td>
     <td align="center" width="34%"><h3>Lenguajes que estoy Aprendiendo</h3></td>
-    <td align="right" width="33%"><h3>Lenguajes que he usado</h3></td>
+    <td align="center" width="33%"><h3>Lenguajes que he usado</h3></td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
       <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
       <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
       <a href="https://www.java.com/es/" target="_blank" title="Java">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
     </td>
     <td align="center">
       <a href="https://rust-lang.org/" target="_blank" title="Rust">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
     </td>
-    <td align="right">
+    <td align="center">
       <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
       </a>
