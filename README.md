@@ -2,57 +2,58 @@
   <h1><strong><em>Bienvenido(a)👋 a mi perfil: </em></strong></h1>
 </ul>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1;">
-    
-### Sobre mí:
-
-Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
-
+<div style="display: flex; align-items: flex-start; gap: 10px; flex-wrap: wrap; padding: 10px;">
+  <div style="display: flex; flex-direction: column; gap: 5px; flex-shrink: 0;">
+    <div style="padding: 5px; color: white; max-width: 950px;">
+      <h3>Sobre mí:</h3>
+      <p>Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.</p>
+    </div>
   </div>
-  
-  <div style="flex-shrink: 0;" align="right">
-    <img width="" height="300" src="./cat-1423_256.gif" style="mask-image: linear-gradient(black 80%, transparent);">
+
+  <div style="padding: 15px;" align="right">
+      <img width="250" height="300" src="./cat-1423_256.gif" style="mask-image: linear-gradient(black 80%, transparent); display: block;">
+    </div>
+
+  <!-- Columna derecha: Stack Tecnológico -->
+  <div style="flex: 1; min-width: 400px;">
+    <h3 style="text-align: center; margin-bottom: 20px;">🛠️ Stack Tecnológico:</h3>
+    <table style="width: 100%; border-collapse: collapse;">
+      <tr>
+        <td align="center" style="padding: 10px;"><h3>Lenguajes que Dominó</h3></td>
+        <td align="center" style="padding: 10px;"><h3>Lenguajes que estoy Aprendiendo</h3></td>
+        <td align="center" style="padding: 10px;"><h3>Lenguajes que he usado</h3></td>
+      </tr>
+      <tr>
+        <td align="center" style="padding: 10px;">
+          <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+            <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+          <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
+            <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+          <a href="https://www.java.com/es/" target="_blank" title="Java">
+            <img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+        </td>
+        <td align="center" style="padding: 10px;">
+          <a href="https://rust-lang.org/" target="_blank" title="Rust">
+            <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
+        </td>
+        <td align="center" style="padding: 10px;">
+          <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+            <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+          <a href="https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting/What_is_JavaScript" target="_blank" title="JavaScript">
+            <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+          <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
+            <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+          <a href="https://www.java.com/es/" target="_blank" title="Java">
+            <img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+          <a href="https://rust-lang.org/" target="_blank" title="Rust">
+            <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
+          <a href="https://www.python.org/" target="_blank" title="Python">
+            <img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
-
-### 🛠️ Stack Tecnológico:
-
-<table style="width: 100%; height: 100%; table-layout: fixed;">
-  <tr>
-    <td align="center"><h3>Lenguajes que Dominó</h3></td>
-    <td align="center"><h3>Lenguajes que estoy Aprendiendo</h3></td>
-    <td align="center"><h3>Lenguajes que he usado</h3></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-      <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
-      <a href="https://www.java.com/es/" target="_blank" title="Java">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-    </td>
-    <td align="center">
-      <a href="https://rust-lang.org/" target="_blank" title="Rust">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
-    </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-      <a href="https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting/What_is_JavaScript" target="_blank" title="JavaScript">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-      <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
-      <a href="https://www.java.com/es/" target="_blank" title="Java">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-      <a href="https://rust-lang.org/" target="_blank" title="Rust">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
-      <a href="https://www.python.org/" target="_blank" title="Python">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-    </td>
-  </tr>
-</table>
 
 #### Frontend
 
