@@ -8,25 +8,26 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 
 <table>
 <tr>
-<td width="10%">
+<td valign="top">
 
 ### 🛠️ Stack Tecnológico:
 
-<table>
-  <tr>
-    <td align="center"><h4>Lenguajes que Domino</h4></td>
-    <td align="center"><h4>Lenguajes que estoy Aprendiendo</h4></td>
-    <td align="center"><h4>Lenguajes que he usado</h4></td>
-  </tr>
-  <tr>
-    <td align="center">
-    <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-    <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
-    <a href="https://www.java.com/es/" target="_blank" title="Java">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-    </td>
+<div style="overflow-x: auto; max-width: 100%;">
+<table style="min-width: 400px;">
+<tr>
+<td align="center"><h4>Lenguajes que</h4> <h4><span>Domino</span></h4></td>
+<td align="center"><h4>Lenguajes que</h4> <h4><span>estoy Aprendiendo</span></h4></td>
+<td align="center"><h4>Lenguajes que he usado</h4></td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+<a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
+<img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+<a href="https://www.java.com/es/" target="_blank" title="Java">
+<img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+</td>
 <td align="center">
 <a href="https://rust-lang.org/" target="_blank" title="Rust">
 <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
@@ -47,9 +48,10 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 </td>
 </tr>
 </table>
+</div>
 
 </td>
-<td width="100%" align="right">
+<td align="right" valign="top">
 <img width="250" height="300" src="./cat-1423_256.gif" alt="Cat animation">
 </td>
 </tr>
