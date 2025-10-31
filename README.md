@@ -10,9 +10,9 @@
 Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. 
 Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
 
-<div style="flex-shrink: 0;">
+<div style="flex-shrink: 0;" align="right">
     <img width="" height="300" src="./cat-1423_256.gif" style="mask-image: linear-gradient(black 80%, transparent);">
-</div>
+  </div>
 
 ### 🛠️ Stack Tecnológico:
 
