@@ -8,7 +8,7 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 
 <table>
 <tr>
-<td width="60%">
+<td width="10%">
 
 ### 🛠️ Stack Tecnológico:
 
@@ -49,7 +49,7 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 </table>
 
 </td>
-<td width="40%" align="right">
+<td width="100%" align="right">
 <img width="250" height="300" src="./cat-1423_256.gif" alt="Cat animation">
 </td>
 </tr>
