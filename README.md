@@ -3,9 +3,10 @@
 </ul>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1;">
     
 ### Sobre mí:
+
 Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
 
   </div>
@@ -13,19 +14,11 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
   <div style="flex-shrink: 0;" align="right">
     <img width="" height="300" src="./cat-1423_256.gif" style="mask-image: linear-gradient(black 80%, transparent);">
   </div>
-
-  <table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td align="center"><h3>Lenguajes que Dominó</h3></td>
-    <td align="center"><h3>Lenguajes que estoy Aprendiendo</h3></td>
-    <td align="center"><h3>Lenguajes que he usado</h3></td>
-  </tr>
-</table>
 </div>
 
 ### 🛠️ Stack Tecnológico:
 
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; height: 100%; table-layout: fixed;">
   <tr>
     <td align="center"><h3>Lenguajes que Dominó</h3></td>
     <td align="center"><h3>Lenguajes que estoy Aprendiendo</h3></td>
