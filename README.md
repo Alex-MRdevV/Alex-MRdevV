@@ -22,14 +22,12 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
         <td>
           <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
             <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
-          <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
-            <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
-          <a href="https://www.java.com/es/" target="_blank" title="Java">
-            <img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
         </td>
         <td>
           <a href="https://rust-lang.org/" target="_blank" title="Rust">
             <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
+          <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
+            <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
         </td>
         <td>
           <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
