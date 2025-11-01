@@ -36,9 +36,9 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
             <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
           <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
             <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
-          <br>
           <a href="https://www.java.com/es/" target="_blank" title="Java">
             <img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+          <br>
           <a href="https://rust-lang.org/" target="_blank" title="Rust">
             <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
           <a href="https://www.python.org/" target="_blank" title="Python">
