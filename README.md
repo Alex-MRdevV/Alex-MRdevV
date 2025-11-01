@@ -70,41 +70,6 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 
 #### Bases de Datos
 
-<div align="left">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-</div>
-
-#### Herramientas
-
-[![Obsidian][obsidian-badge]][obsidian-url]
-[![Lunacy][lunacy-badge]][lunacy-url]
-[![Figma][figma-badge]][figma-url]
-
----
-
-<details>
-<summary>📋 Ver todas las tecnologías en detalle</summary>
-<br/>
-
-#### Lenguajes
-
-[![Typescript][typescript-badge]][typescript-url]
-
-#### Frontend & Diseño
-
-[![Astro][astro-badge]][astro-url]
-[![CSS][css-badge]][css-url]
-[![Tailwind CSS][tailwind-badge]][tailwind-url]
-[![React JS][react-badge]][react-url]
-[![Angular][angular-badge]][angular-url]
-
-#### Bases de Datos
-
 [![PostgresSQL][postgres-badge]][postgres-url]
 [![SQLite][SQLite-badge]][SQLite-url]
 [![MySQL][mysql-badge]][mysql-url]
@@ -115,7 +80,7 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [![Lunacy][lunacy-badge]][lunacy-url]
 [![Figma][figma-badge]][figma-url]
 
-</details>
+---
 
 ## Estadísticas de mi cuenta:
 
