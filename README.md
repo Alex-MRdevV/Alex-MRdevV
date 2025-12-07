@@ -57,21 +57,27 @@ Trabajo principalmente con TypeScript, pero soy abierto a aprender cualquier her
 
 ---
 
-#### Frontend
+### Frontend
 
 [![Astro][astro-badge]][astro-url]
 [![CSS][css-badge]][css-url]
 [![Tailwind CSS][tailwind-badge]][tailwind-url]
 [![React][react-badge]][react-url]
-[![Angular][angular-badge]][angular-url]
+[![Angular][angular-badge]][angular-url] 
+[![Next.js][nextjs-badge]][nextjs-url]
 
-#### Backend & Infraestructura
+### Backend & Infraestructura
 
 [![Node.js][node-badge]][node-url]
 [![Express.js][express-badge]][express-url]
+[![NestJS][nestjs-badge]][nestjs-url]
 [![Hono.js][hono-badge]][hono-url]
+[![Ktor][ktor-badge]][ktor-url]
 [![Drizzle][drizzle-badge]][drizzle-url]
 [![Zod][zod-badge]][zod-url]
+[![Vercel][vercel-badge]][vercel-url]
+[![Cloudflare][cloudflare-badge]][cloudflare-url]
+[![Turso][turso-badge]][turso-url]
 
 #### Bases de Datos
 
@@ -79,11 +85,12 @@ Trabajo principalmente con TypeScript, pero soy abierto a aprender cualquier her
 [![SQLite][SQLite-badge]][SQLite-url]
 [![MySQL][mysql-badge]][mysql-url]
 
-#### Herramientas
+### Herramientas
 
 [![Obsidian][obsidian-badge]][obsidian-url]
 [![Lunacy][lunacy-badge]][lunacy-url]
 [![Figma][figma-badge]][figma-url]
+[![Tauri][tauri-badge]][tauri-url]
 
 ---
 
@@ -101,6 +108,11 @@ Trabajo principalmente con TypeScript, pero soy abierto a aprender cualquier her
 [SQLite-badge]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [mysql-url]: https://www.mysql.com/
 [mysql-badge]: https://img.shields.io/badge/mysql-%3373f.svg?style=for-the-badge&logo=mysql&logoColor=black
+[tauri-url]: https://tauri.app/
+[tauri-badge]: https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=white
+[nestjs-url]: https://nestjs.com/
+[nestjs-badge]: https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
+
 [Badges junto a las URLS para cualquier tipo de herramientas y tecnologías intercambiables.]: #
 [typescript-url]: https://www.typescriptlang.org/
 [typescript-badge]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=352899
@@ -120,6 +132,8 @@ Trabajo principalmente con TypeScript, pero soy abierto a aprender cualquier her
 [react-badge]: https://shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=352563
 [angular-url]: https://angular.io/
 [angular-badge]: https://img.shields.io/badge/Angular-A232FC?style=for-the-badge&logo=angular&logoColor=EA193D
+[nextjs-url]: https://nextjs.org/
+[nextjs-badge]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
 [lunacy-url]: https://iconos8.es/lunacy
 [lunacy-badge]: https://shields.io/badge/Lunacy-179DE9?style=for-the-badge&logo=lunacy&logoColor=white&color=2cc0e4
 [figma-url]: https://figma.com/
@@ -134,3 +148,11 @@ Trabajo principalmente con TypeScript, pero soy abierto a aprender cualquier her
 [hono-badge]: https://img.shields.io/badge/honojs-F2959d?style=for-the-badge&logo=hono&logoColor=red
 [drizzle-url]: https://orm.drizzle.team/docs/overview
 [drizzle-badge]: https://img.shields.io/badge/drizzle-%23403d77.svg?style=for-the-badge&logo=drizzle&logoColor=green
+[vercel-url]: https://vercel.com/
+[vercel-badge]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white
+[cloudflare-url]: https://www.cloudflare.com/
+[cloudflare-badge]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
+[turso-url]: https://turso.tech/
+[turso-badge]: https://img.shields.io/badge/turso-%234FF8D2.svg?style=for-the-badge&logo=turso&logoColor=black
+[ktor-url]: https://ktor.io/
+[ktor-badge]: https://img.shields.io/badge/ktor-%23087CFA.svg?style=for-the-badge&logo=ktor&logoColor=white
