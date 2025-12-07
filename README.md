@@ -24,10 +24,10 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
             <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
         </td>
         <td>
+        <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
+            <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
           <a href="https://rust-lang.org/" target="_blank" title="Rust">
             <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
-          <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
-            <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
         </td>
         <td>
           <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
@@ -36,11 +36,11 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
             <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
           <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
             <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+            <a href="https://rust-lang.org/" target="_blank" title="Rust">
+            <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
+          <br>
           <a href="https://www.java.com/es/" target="_blank" title="Java">
             <img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-          <br>
-          <a href="https://rust-lang.org/" target="_blank" title="Rust">
-            <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
           <a href="https://www.python.org/" target="_blank" title="Python">
             <img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
           <a href="https://www.php.net/" target="_blank" title="Php">
@@ -90,8 +90,6 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 <img src="https://nirzak-streak-stats.vercel.app/?user=Alex-MRdevV&&card_width=470&theme=aura&locale=es&Type=compact" alt="GitHub Streak Stats"/>
 </section>
 <section>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-MRdevV&layout=compact&langs_count=8&theme=radical" />
-</section>
 
 [Badges junto a las URLS para cualquier tipo de base de datos intercambiables.]: #
 [postgres-url]: https://www.postgresql.org/
