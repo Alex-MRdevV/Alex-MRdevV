@@ -4,13 +4,16 @@
 
 ### 🔗 Sobre mí:
 
-Desarrollador fullstack apasionado por el rendimiento, la optimización y la experiencia de usuario. Me especializo en tecnologías modernas y disfruto construir aplicaciones eficientes y escalables.
+Soy Alejandro, pero mis amigos me suelen llamar Ale. Cuento con más de 1 año de experiencia en el desarrollo web, disfruto observar cómo la optimización, rendimiento, seguridad y fiabilidad se juntan para ofrecer la mejor experiencia al usuario.
+
+Soy tecnólogo en Análisis y Desarrollo de Software, pero me encuentro cursando la ingeniería. Regularmente, creo proyectos que me obligan a mejorar como profesional, aprendiendo nuevos conceptos y consolidando los ya existentes.
+
+Trabajo principalmente con TypeScript, pero soy abierto a aprender cualquier herramienta que me permita crear la mejor solución posible. Actualmente estoy aprendiendo Kotlin y Rust.
 
 ### 🛠️ Stack Tecnológico:
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 20px; padding: 10px 0;">
 
-  <!-- Tabla a la izquierda -->
   <div style="overflow-x: auto; flex: 1; min-width: 400px;">
     <table style="width: 100%; border-collapse: collapse; text-align: center;">
       <tr>
@@ -59,7 +62,7 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [![Astro][astro-badge]][astro-url]
 [![CSS][css-badge]][css-url]
 [![Tailwind CSS][tailwind-badge]][tailwind-url]
-[![React JS][react-badge]][react-url]
+[![React][react-badge]][react-url]
 [![Angular][angular-badge]][angular-url]
 
 #### Backend & Infraestructura
@@ -105,6 +108,7 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [zod-badge]: https://img.shields.io/badge/zod-F2957d?style=for-the-badge&logo=zod&logoColor=blue
 [obsidian-url]: https://obsidian.md/
 [obsidian-badge]: https://img.shields.io/badge/Obsidian-%23403d77.svg?style=for-the-badge&logo=obsidian&logoColor=8b12d5
+
 [Badges junto a las URLS para el frontend y diseño.]: #
 [astro-url]: https://astro.build/
 [astro-badge]: https://img.shields.io/badge/Astro-fff?style=for-the-badge&logo=astro&logoColor=bd303a&color=352563
@@ -120,6 +124,7 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
 [lunacy-badge]: https://shields.io/badge/Lunacy-179DE9?style=for-the-badge&logo=lunacy&logoColor=white&color=2cc0e4
 [figma-url]: https://figma.com/
 [figma-badge]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+
 [Badges junto a las URLS para el backend y todo lo no visto por el user final.]: #
 [node-url]: https://nodejs.org/en
 [node-badge]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
