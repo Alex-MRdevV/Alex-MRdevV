@@ -43,6 +43,8 @@ Desarrollador fullstack apasionado por el rendimiento, la optimización y la exp
             <img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
           <a href="https://www.python.org/" target="_blank" title="Python">
             <img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+          <a href="https://www.php.net/" target="_blank" title="Php">
+            <img src="https://skillicons.dev/icons?i=php" alt="Php" /></a>
         </td>
       </tr>
     </table>
